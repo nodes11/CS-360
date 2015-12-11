@@ -1,0 +1,27 @@
+CPTS 360 Review 1:
+
+1. The first set are the permissions of the file/directory. The second set is the owner of the file/directory. The third set is the owner group. The fourth item is the file size in bits. The fifth item is the the date the file was last modified. The final item is the file directory name.
+
+2. There are 10 bits in a single file permission.
+	1. The file type (the entry type)
+	2. File owner permissions (1st permission bit triad)
+	3. File group permissions (2nd permission bit triad)
+	4. Other permissions (3rd permission bit triad)
+
+3. You can retrieve your UID and GID by "echo $UID/$GID". The UID is used as a numerical value to represent a user's identity. The GID works in the same way but is used for groups.
+
+4. If I were to change the file permissions of a file to 766 the resulting permissions would be: -rwxrw-rw-
+
+5. The x bits of directory mean that the file is executable for the specified user/group.
+
+6. The superuser plays the role as a system admin. This allows the user overlook the permissions of other users and control changes made to the system.
+
+7. When a new process is started it is assigned a new PID (process ID)
+
+8. a&b&c&d& will result in four new processes each with unique PID's. There is not a task running in the foreground because the & makes all the processes run in the background.
+
+9. Four processes will be executed during "a|b|c|d".
+
+- Piping sends data from one file to another.
+
+	

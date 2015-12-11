@@ -1,0 +1,118 @@
+enter main
+&argc=ffb32780 argv=ffb32814 env=ffb32828
+&a=ffb32764 &b=ffb32768 &c=ffb3276c
+enter A
+&d=ffb32734 &e=ffb32738 &f=ffb3273c
+enter B
+&g=ffb32704 &h=ffb32708 &i=ffb3270c
+enter C
+&u=ffb326c8 &v=ffb326cc &w=ffb326d0
+
+The stack frame linked list is:
+ffb326e8-->ffb32718-->ffb32748-->ffb32778-->0
+
+
+Now printing 100 entries of the stack contents...
+1. Address:ffb326c8	Contents:a
+2. Address:ffb326cc	Contents:b
+3. Address:ffb326d0	Contents:c
+4. Address:ffb326d4	Contents:3
+5. Address:ffb326d8	Contents:ffb326d8
+6. Address:ffb326dc	Contents:0
+7. Address:ffb326e0	Contents:0
+8. Address:ffb326e4	Contents:0
+9. Address:ffb326e8	Contents:ffb32718
+10. Address:ffb326ec	Contents:80485a3
+11. Address:ffb326f0	Contents:7
+12. Address:ffb326f4	Contents:8
+13. Address:ffb326f8	Contents:ffb32708
+14. Address:ffb326fc	Contents:ffb3270c
+15. Address:ffb32700	Contents:f76e7ac0
+16. Address:ffb32704	Contents:7
+17. Address:ffb32708	Contents:8
+18. Address:ffb3270c	Contents:9
+19. Address:ffb32710	Contents:0
+20. Address:ffb32714	Contents:0
+21. Address:ffb32718	Contents:ffb32748
+22. Address:ffb3271c	Contents:804853b
+23. Address:ffb32720	Contents:4
+24. Address:ffb32724	Contents:5
+25. Address:ffb32728	Contents:ffb32738
+26. Address:ffb3272c	Contents:ffb3273c
+27. Address:ffb32730	Contents:f76e7ac0
+28. Address:ffb32734	Contents:4
+29. Address:ffb32738	Contents:5
+30. Address:ffb3273c	Contents:6
+31. Address:ffb32740	Contents:ffb32780
+32. Address:ffb32744	Contents:f7729938
+33. Address:ffb32748	Contents:ffb32778
+34. Address:ffb3274c	Contents:80484d3
+35. Address:ffb32750	Contents:1
+36. Address:ffb32754	Contents:2
+37. Address:ffb32758	Contents:ffb32768
+38. Address:ffb3275c	Contents:ffb3276c
+39. Address:ffb32760	Contents:f76e73c4
+40. Address:ffb32764	Contents:1
+41. Address:ffb32768	Contents:2
+42. Address:ffb3276c	Contents:3
+43. Address:ffb32770	Contents:80486c0
+44. Address:ffb32774	Contents:0
+45. Address:ffb32778	Contents:0
+46. Address:ffb3277c	Contents:f7559a63
+47. Address:ffb32780	Contents:4
+48. Address:ffb32784	Contents:ffb32814
+49. Address:ffb32788	Contents:ffb32828
+50. Address:ffb3278c	Contents:f7716cea
+51. Address:ffb32790	Contents:4
+52. Address:ffb32794	Contents:ffb32814
+53. Address:ffb32798	Contents:ffb327b4
+54. Address:ffb3279c	Contents:804a018
+55. Address:ffb327a0	Contents:804822c
+56. Address:ffb327a4	Contents:f76e7000
+57. Address:ffb327a8	Contents:0
+58. Address:ffb327ac	Contents:0
+59. Address:ffb327b0	Contents:0
+60. Address:ffb327b4	Contents:35befd01
+61. Address:ffb327b8	Contents:f8c5b910
+62. Address:ffb327bc	Contents:0
+63. Address:ffb327c0	Contents:0
+64. Address:ffb327c4	Contents:0
+65. Address:ffb327c8	Contents:4
+66. Address:ffb327cc	Contents:8048350
+67. Address:ffb327d0	Contents:0
+68. Address:ffb327d4	Contents:f771c500
+69. Address:ffb327d8	Contents:f7559979
+70. Address:ffb327dc	Contents:f7729000
+71. Address:ffb327e0	Contents:4
+72. Address:ffb327e4	Contents:8048350
+73. Address:ffb327e8	Contents:0
+74. Address:ffb327ec	Contents:8048371
+75. Address:ffb327f0	Contents:804844d
+76. Address:ffb327f4	Contents:4
+77. Address:ffb327f8	Contents:ffb32814
+78. Address:ffb327fc	Contents:80486c0
+79. Address:ffb32800	Contents:8048730
+80. Address:ffb32804	Contents:f7717180
+81. Address:ffb32808	Contents:ffb3280c
+82. Address:ffb3280c	Contents:1c
+83. Address:ffb32810	Contents:4
+84. Address:ffb32814	Contents:ffb33389
+85. Address:ffb32818	Contents:ffb33391
+86. Address:ffb3281c	Contents:ffb33395
+87. Address:ffb32820	Contents:ffb33399
+88. Address:ffb32824	Contents:0
+89. Address:ffb32828	Contents:ffb3339f
+90. Address:ffb3282c	Contents:ffb333aa
+91. Address:ffb32830	Contents:ffb333bc
+92. Address:ffb32834	Contents:ffb333d2
+93. Address:ffb32838	Contents:ffb333e3
+94. Address:ffb3283c	Contents:ffb33412
+95. Address:ffb32840	Contents:ffb33421
+96. Address:ffb32844	Contents:ffb33456
+97. Address:ffb32848	Contents:ffb33461
+98. Address:ffb3284c	Contents:ffb33471
+99. Address:ffb32850	Contents:ffb33488
+100. Address:ffb32854	Contents:ffb33499
+exit B
+exit A
+exit main
